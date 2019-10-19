@@ -48,9 +48,18 @@
 .userb {flex-wrap:nowrap;font-size:60px}}
   
 
-.user-details{text-align:center;margin:20px auto}
+.user-details{text-align:center;margin:50px auto}
 
 .footer{background:#1a222c;padding:10px 0;margin-top:100px;text-align:center;color:#fff}.footer .love{color:red}.footer a{text-decoration:none;margin:0;color:#fff}
+
+hrt {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 0px solid #ccc;
+    padding: 50px 0px 0px 0px;
+}
+
 
 hr {
     display: block;
