@@ -15,6 +15,6 @@ email: drpettychen@gmail.com
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-118600526-3"
 
 exclude: ['package.json', 'src' , 'node_modules']
