@@ -13,11 +13,8 @@
 
 .onecol{margin:0px;flex:1}.onecol h2,.onecol h3, .onecol h4,
 
-
 .user-details h1,body{font-weight:400}
 .user-details{text-align:center;margin:5px auto}
-.user-details p{font-size:14px}@media only screen and (min-width:768px){
-.user-details{flex-wrap:nowrap;font-size:60px}}
 
 .exp{
   background-color:#e5eaf0; 
@@ -33,7 +30,7 @@
 }
 .exp h3{font-size:18px;font-weight: bold; font-family:lato;}
 .exp h4{font-size:18px; font-family:lato;}
-.exp p{font-size:14px}@media only screen and (min-width:768px){
+.exp p{font-size:16px}@media only screen and (min-width:768px){
 .exp{flex-wrap:nowrap;font-size:60px}}
 
 .expb{
@@ -50,7 +47,7 @@
 }
 .expb h3{font-size:18px;font-weight: bold; font-family:lato;}
 .expb h4{font-size:18px; font-family:lato;}
-.expb p{font-size:14px}@media only screen and (min-width:768px){
+.expb p{font-size:16px}@media only screen and (min-width:768px){
 .expb{flex-wrap:nowrap;font-size:60px}}
 
 
