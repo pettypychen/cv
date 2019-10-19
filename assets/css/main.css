@@ -48,7 +48,7 @@
 .userb {flex-wrap:nowrap;font-size:60px}}
   
 
-.user-details{text-align:center;margin:20px auto}
+.user-details{text-align:center;margin:30px auto}
 
 .footer{background:#1a222c;padding:10px 0;margin-top:100px;text-align:center;color:#fff}.footer .love{color:red}.footer a{text-decoration:none;margin:0;color:#fff}
 
@@ -57,6 +57,6 @@ hr {
     height: 1px;
     border: 0;
     border-top: 1px solid #ccc;
-    margin: 20px 300px 20px 300px;
+    margin: 30px 200px 30px 200px;
     padding: 0px;
 }
